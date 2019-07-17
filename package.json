@@ -1,0 +1,8 @@
+{
+  "name": "IoCTest",
+  "version": "0.0.1",
+  "dependencies": {
+    "awilix": "4.2.2"
+  },
+  "devDependencies": {}
+}
